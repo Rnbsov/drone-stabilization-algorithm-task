@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "drone-stabilization-algorithm-task"
+version = "0.1.0"
+description = ""
+authors = ["Rnbsov <rnbsov@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
